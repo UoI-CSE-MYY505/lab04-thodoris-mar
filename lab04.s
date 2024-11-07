@@ -27,7 +27,7 @@ arrayNotSorted: .word marianna, markos, maria
 
 str_ge:
 #---------
-# Write the subroutine code here
+# Write the subroutine code here.
 #  You may move jr ra   if you wish.
 #---------
             jr   ra
